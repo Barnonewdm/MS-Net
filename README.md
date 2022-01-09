@@ -31,6 +31,6 @@ To our knowledge, this is the first work to simplify brain MR image registration
 ## Instruction
 1. Simplified Image Generation
     + For generating the simplified image, please use `python predict.py`. The pretrained model is supplied.
-3. Image Guided Registration
+
 
 
