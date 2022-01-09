@@ -25,12 +25,12 @@ To our knowledge, this is the first work to simplify brain MR image registration
     [Pattern Recognition](https://www.sciencedirect.com/science/article/abs/pii/S0031320319304716)
 
     **Morphological Simplification of Brain MR Images by Deep Learning for Facilitating Deformable Registration**    
-    Dongming Wei, Sahar Ahmad, Zhengwang Wu, Xiaohuan Cao, Xuhua Ren, Gang Li, Dinggang Shen, Qian Wang\  
+    Dongming Wei, Sahar Ahmad, Zhengwang Wu, Xiaohuan Cao, Xuhua Ren, Gang Li, Dinggang Shen, Qian Wang\
     [MLMI 2019](https://link.springer.com/chapter/10.1007/978-3-030-32692-0_24)
 
 ## Instruction
 1. Simplified Image Generation
-    + For generating the simplified image, please use `python predict.py`.
+    + For generating the simplified image, please use `python predict.py`. The pretrained model is supplied.
 3. Image Guided Registration
 
 
